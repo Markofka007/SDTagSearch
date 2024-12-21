@@ -8,5 +8,6 @@ This code was frankensteined from a few other smaller projects I had so don't ju
 
 # Usage
 1. Download `main.py`
-2. Modify `input_dir` (line 7) to the directory with your StableDiffusion generated images
-3. Run the code
+2. Run `pip install Pillow`
+3. Modify `input_dir` (line 7) to the directory with your StableDiffusion generated images
+4. Run the code
